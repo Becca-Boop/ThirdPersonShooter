@@ -1,0 +1,27 @@
+Lara to do list!
+
+fix shoot animation
+
+mantling
+
+stealth mechanic
+- stealth animation/crouch
+- mechanic to determine how detectable you are
+- enemy ai detecting lara
+
+Levels
+
+different weapons/weapon types
+
+ability to kill enemies
+
+ability for enemies to kill lara
+- health system
+
+HUD
+
+dynamic levels
+- moving scenery
+- AI accounts for moving scenery
+
+plot 
